@@ -33,7 +33,7 @@
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DwcQuocXa&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DwcQuocXa&show_icons=true&theme=dracula)
 
 [instagram]: https://www.instagram.com/duc_ngo_gia/
 [linkedin]: https://linkedin.com/in/codeSTACKr
