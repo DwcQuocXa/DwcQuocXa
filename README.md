@@ -5,7 +5,7 @@
 - 🌱 I’m currently coding everyday and learning everything 🤣
 - 👯 I’m looking to gain more experience in web development projects
 - 🥅 2021 Goals: Learn new techs and build more full stack web apps
-- ⚡ Hobbies: I love rap and playing basketball
+- ⚡ Hobbies: I love basketball, football, and rap
 
 ### Connect with me
 
