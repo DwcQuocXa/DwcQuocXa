@@ -38,6 +38,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DwcQuocXa&layout=compact&theme=dracula)
 
 [instagram]: https://www.instagram.com/duc_ngo_gia/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/duc-ngo-4804ab1aa/
 [facebook]: https://www.facebook.com/giaduc.ngo.9/
 [github]: https://github.com/DwcQuocXa
