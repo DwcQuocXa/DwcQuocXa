@@ -1,11 +1,11 @@
 ### Hi there, I'm Duc Ngo 👋
 
-## I'm a BITE student and a Full Stack developer
+## I'm a Full Stack developer
 
 - 🌱 I’m currently coding everyday and learning everything 🤣
 - 👯 I’m looking to gain more experience in web development projects
 - 🥅 2021 Goals: Learn new techs and build more full stack web apps
-- ⚡ Hobbies: I love basketball, football, and rap
+- ⚡ Hobbies: I love basketball, football
 
 ### Connect with me
 
