@@ -3,8 +3,8 @@
 ## I'm a Full Stack developer
 
 - 🌱 I’m currently coding everyday and learning everything 🤣
-- 👯 I’m looking to gain more experience in web development projects
-- 🥅 2021 Goals: Learn new techs and build more full stack web apps
+- 👯 I’m looking to gain more experience in software development
+- 🥅 2023 Goals: Learn new techs and be better
 - ⚡ Hobbies: I love basketball, football
 
 ### Connect with me
