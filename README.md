@@ -1,3 +1,3 @@
 ### Hi there, I'm Duc Ngo 👋
 
-## I'm building AI products 
+## I'm building AI products, interfaces, experiences
